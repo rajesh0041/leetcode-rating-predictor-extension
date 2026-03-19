@@ -46,7 +46,7 @@ lc-rating-predictor/
 1. Download or clone this repository
 
 ```
-git clone https://github.com/your-username/lc-rating-predictor.git
+git clone https://github.com/rajesh0041/lc-rating-predictor.git
 ```
 
 2. Open Chrome and go to
@@ -117,7 +117,7 @@ Where **K factor ≈ 0.2** for approximation.
 Computer Science Student
 
 * LeetCode: https://leetcode.com/Rajesh_0041
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/rajesh0041
 
 ---
 
